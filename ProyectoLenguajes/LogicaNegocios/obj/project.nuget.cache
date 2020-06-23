@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "MgSFNMCtpCRP1cTt/jZXrVA2Do8LeUbkJrZCj02CUKGhvtF7Fyn71SMCHQFEMckhQuG6w74kjcudInn0jEOFWg==",
+  "dgSpecHash": "v8uixsqYoNKLACe1oDZUewV8/exObuHVShEH02G/Tz8xdpgMZ90GtOP8tQsYV2YGm/BFfVOLvkP5A6/z5Oi6/A==",
   "success": true,
-  "projectFilePath": "E:\\Nacho\\Semestre I 2020\\Lenguajes comerciales\\Proyecto Final\\ProyectoLenguajes\\LogicaNegocios\\LogicaNegocios.csproj",
+  "projectFilePath": "C:\\Users\\trejo\\OneDrive\\Escritorio\\Proyecto Final Lenguajes\\Prueba1\\ProyectoLenguajes\\LogicaNegocios\\LogicaNegocios.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Nacho\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Nacho\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\trejo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\trejo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
