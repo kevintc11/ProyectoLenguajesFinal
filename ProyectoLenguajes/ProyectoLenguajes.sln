@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos", "Metodos\Metodos.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Probando", "Probando\Probando.csproj", "{C15CB631-073B-43F9-9F05-8BBCD15AC3F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prueva", "prueva\prueva.csproj", "{B9CC1876-A0DE-459F-8F74-EDC6B1CBDC5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C15CB631-073B-43F9-9F05-8BBCD15AC3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C15CB631-073B-43F9-9F05-8BBCD15AC3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C15CB631-073B-43F9-9F05-8BBCD15AC3F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9CC1876-A0DE-459F-8F74-EDC6B1CBDC5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CC1876-A0DE-459F-8F74-EDC6B1CBDC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CC1876-A0DE-459F-8F74-EDC6B1CBDC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CC1876-A0DE-459F-8F74-EDC6B1CBDC5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
