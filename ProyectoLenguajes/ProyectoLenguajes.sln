@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prueva", "prueva\prueva.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hola", "Hola\Hola.csproj", "{1A5E36F7-338B-443A-B827-84C5F4FE43B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dasdas", "dasdas\dasdas.csproj", "{AD7ADDDD-B364-4500-B901-C0FCFE04EED2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{1A5E36F7-338B-443A-B827-84C5F4FE43B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A5E36F7-338B-443A-B827-84C5F4FE43B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A5E36F7-338B-443A-B827-84C5F4FE43B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD7ADDDD-B364-4500-B901-C0FCFE04EED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7ADDDD-B364-4500-B901-C0FCFE04EED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7ADDDD-B364-4500-B901-C0FCFE04EED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7ADDDD-B364-4500-B901-C0FCFE04EED2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
